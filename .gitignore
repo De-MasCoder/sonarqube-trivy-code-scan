@@ -1,0 +1,64 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored if you use Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# Entity Framework
+*.mdf
+*.ldf
+
+# DotCover
+*.dotCover
+
+# Publish output
+publish/
+*.pubxml
+*.publishproj
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Others
+*.vspscc
+*.vssscc
+*.dbmdl
+*.pdb
+
+# IIS Express
+*.vs/
+*.vscode/
+*.vsconfig
+.DS_Store
